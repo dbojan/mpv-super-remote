@@ -5,13 +5,16 @@ Remote for mpv player, uses python web server, works on linux. Use vlc for windo
 
 download files, start them. works on linux. requires python and mpv.
 
-start by typing: python mpvs.py, or start linuxstart.sh  
 chmod 755 scriptname.py first.  
 or enable run in file manager  
+start by typing: python mpvs.py, or start linuxstart.sh  
 
+open ip address in web browser on phone, ip is displayed in start script status.  
+you should probably set static ip on pc first, so you can add bookmark to browser on phone.  
+script should start mpv, by itself, do not close it, if you want to use remote.  
 
+**VLC**
 
-**vlc**
 for windows use vlc. you can also use vlc remote on windows:
 
 ```
