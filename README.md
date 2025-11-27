@@ -38,3 +38,8 @@ open ip in web browser in window
 http://192.168.1.27:8080
 do not enter user name, enter password: 1
 ```
+
+
+todo, maybe:  
+- sleep, shut down button on remote?
+- close mpv button?
